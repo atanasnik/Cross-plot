@@ -1,0 +1,83 @@
+#adding {
+    font-family: Arial;
+    color: blue;
+    border-color: blue;
+    font-size: 15px;
+    background: #ffd5fd;
+    padding: 8px 20px 8px 20px;
+    text-decoration: none;
+    position:fixed;
+    left:650px;
+    top:423px;
+  }
+
+  #adding:hover {
+    background: white;
+    background-image: -ms-linear-gradient(top, white, white);
+    background-image: -o-linear-gradient(top, white, white);
+    background-image: linear-gradient(to bottom, white, white);
+    text-decoration: none;
+  }
+
+  #removing {
+    font-family: Arial;
+    color: blue;
+    border-color: blue;
+    font-size: 15px;
+    background: #ffd5fd;
+    padding: 8px 20px 8px 20px;
+    text-decoration: none;
+    position:fixed;
+    left:650px;
+    top:473px;
+  }
+
+  #removing:hover {
+    background: white;
+    background-image: -ms-linear-gradient(top, white, white);
+    background-image: -o-linear-gradient(top, white, white);
+    background-image: linear-gradient(to bottom, white, white);
+    text-decoration: none;
+  }
+
+  #show_xt_and_yt {
+    font-family: Arial;
+    color: blue;
+    border-color: blue;
+    font-size: 15px;
+    background: #ffd5fd;
+    padding: 8px 20px 8px 20px;
+    text-decoration: none;
+    position:fixed;
+    left:650px;
+    top:523px;
+  }
+
+  #show_xt_and_yt:hover {
+    background: white;
+    background-image: -ms-linear-gradient(top, white, white);
+    background-image: -o-linear-gradient(top, white, white);
+    background-image: linear-gradient(to bottom, white, white);
+    text-decoration: none;
+  }
+
+  #clear {
+    font-family: Arial;
+    color: blue;
+    border-color: blue;
+    font-size: 15px;
+    background: #ffd5fd;
+    padding: 8px 20px 8px 20px;
+    text-decoration: none;
+    position:fixed;
+    left:650px;
+    top:573px;
+  }
+
+  #clear:hover {
+    background: white;
+    background-image: -ms-linear-gradient(top, white, white);
+    background-image: -o-linear-gradient(top, white, white);
+    background-image: linear-gradient(to bottom, white, white);
+    text-decoration: none;
+  }

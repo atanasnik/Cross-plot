@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Cross plot </title>
+	<script type="text/javascript" src="source.js"> </script>
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+
+<body onload="start()">
+	<canvas id = "canvas" width = "600" height = "600" style="border:1px solid #0000ff;">
+	</canvas>
+
+	<button id = "adding" type = "button" onclick="toggleControlPointsAddingState()"> Add control points </button>
+	<button id = "removing" type = "button" onclick="toggleControlPointsRemovalMode()"> Remove control points </button>
+	<button id = "clear" type = "button" onclick="clearCanvas()"> Clear </button>
+	<button id = "show_xt_and_yt" type = "button" onclick="toggleSecondAndFourthQuadrantVisibilityMode()"> Show cross plot </button>
+
+</body>
+</html> 
